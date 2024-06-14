@@ -122,3 +122,8 @@ foreach ($Device in $Devices) {
 #Disconnect MgGraph
 Write-Output "Disconnecting MgGraph"
 Disconnect-MgGraph 
+
+
+##*===============================================
+##* END SCRIPT
+##*===============================================
